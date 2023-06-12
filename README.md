@@ -3,7 +3,7 @@ Eksamena unity tests par temu UI sistēma
 
 ## Uzdevumi ko jaizpilda
 - [x] Izveidot Use case UML diagrammu
-- [ ] Izveidot Klasu UML diagramma
+- [x] Izveidot Activity UML diagramma
 - [x] Izveidot atbilzu pogas 
 - [x] Izdomat 10 jautajumus
 - [x] Pievienot Sakuma ainu
